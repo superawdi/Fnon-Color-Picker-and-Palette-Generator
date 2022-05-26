@@ -1,6 +1,6 @@
 <img src="icon.png" alt="icon" width="200"/>
 
-# Fnon Color Picker and Palettes Generator <span style="font-size:14px">version 1.0.0</span>
+# Fnon Color Picker and Palettes Generator <span style="font-size:14px">version 1.0.0.1</span>
 <div style="text-align: center">
  Pick a color from your live screen, and choose the color format (Hex, Hexa, Rgb, and Rgba).
  <img src="Gui.png" alt="gui" style="margin-top:1rem" />
