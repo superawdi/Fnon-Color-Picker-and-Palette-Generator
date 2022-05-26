@@ -3,7 +3,7 @@
 # Fnon Color Picker and Palettes Generator <span style="font-size:14px">version 1.0.0</span>
 <div style="text-align: center">
  Pick a color from your live screen, and choose the color format (Hex, Hexa, Rgb, and Rgba).
- <img src="gui.png" alt="gui" style="margin-top:1rem" />
+ <img src="Gui.png" alt="gui" style="margin-top:1rem" />
 <hr>
 
  Create colors palettes based on the selected color (Hue, Brightness, and Saturation).
